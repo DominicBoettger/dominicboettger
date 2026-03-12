@@ -4,7 +4,6 @@ I am Dominic Böttger and I am working in the IT space for over two decades now.
 
 - 🔭 I’m currently working on modern workplace related stuff (infrastructure and code)
 - ✍️ Sometimes I am blogging https://dominic-boettger.com
-- 🐥 I am on twitter https://twitter.com/dboettger
 - 📍 I am located in Heidelberg / Germany
 
 ![Dominic's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominicboettger&show_icons=true&theme=dark)
